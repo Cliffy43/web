@@ -1,0 +1,1 @@
+Created in Python 3.11 using the Flask framework. This is a hosted Resume intending to show that at the very least I am capable of googling my way into coding and deploying a smallscale web application. Mostly it was just an excuse to learn HTML and force me to set up my github. 
